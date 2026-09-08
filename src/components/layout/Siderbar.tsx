@@ -81,7 +81,7 @@ export const Sidebar = ({ collapsed }: SidebarProps) => {
           <div className="w-6 h-6 rounded-full bg-brand flex items-center justify-center text-white text-xs font-bold shrink-0">
             A
           </div>
-          {!collapsed && <span className="truncate">Administrator</span>}
+          {!collapsed && <span className="truncate">Administrador</span>}
         </button>
       </div>
     </aside>

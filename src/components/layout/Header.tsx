@@ -91,7 +91,7 @@ export const Header = ({ breadcrumb, onLogout: onLogoutProp, onMenuToggle }: Hea
                     <div className="w-7 h-7 rounded-full bg-brand flex items-center justify-center text-white text-xs font-bold shrink-0">
                         A
                     </div>
-                    <span className="hidden sm:block text-sm font-medium text-text-primary">Administrator</span>
+                    <span className="hidden sm:block text-sm font-medium text-text-primary">Administrador</span>
                     <ChevronDown size={14} className="text-text-secondary hidden sm:block" />
                 </button>
 
